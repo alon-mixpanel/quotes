@@ -56,19 +56,19 @@ body{
 	quotes:'\201C''\201D''\2018''\2019';
 }
 .author-quote-wrap .author-photo.photo-a{
-	background-image:url(https://raw.githubusercontent.com/khadkamhn/day-007-author-quote/master/img/author-1.jpg);
+	background-image:url(https://alon-mixpanel.github.io/quotes/ryan.jpg);
 }
 .author-quote-wrap .author-photo.photo-b{
-	background-image:url(https://raw.githubusercontent.com/khadkamhn/day-007-author-quote/master/img/author-2.jpg);
+	background-image:url(https://alon-mixpanel.github.io/quotes/ryan.jpg);
 }
 .author-quote-wrap .author-photo.photo-c{
-	background-image:url(https://raw.githubusercontent.com/khadkamhn/day-007-author-quote/master/img/author-3.jpg);
+	background-image:url(https://alon-mixpanel.github.io/quotes/ryan.jpg);
 }
 .author-quote-wrap .author-photo.photo-d{
-	background-image:url(https://raw.githubusercontent.com/khadkamhn/day-007-author-quote/master/img/author-4.jpg);
+	background-image:url(https://alon-mixpanel.github.io/quotes/ryan.jpg);
 }
 .author-quote-wrap .author-photo.photo-e{
-	background-image:url(https://raw.githubusercontent.com/khadkamhn/day-007-author-quote/master/img/author-5.jpg);
+	background-image:url(https://alon-mixpanel.github.io/quotes/ryan.jpg);
 }
 .author-quote-wrap .author-photo:before{
 	content:'';
