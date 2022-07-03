@@ -15,14 +15,21 @@ MIXPANEL_CUSTOM_LIB_URL:"file:"===f.location.protocol&&"//cdn.mxpnl.com/libs/mix
 mixpanel.init('b9f22c0b5ebbdc6e3174c519407e1fea',{persistence: 'localStorage'}); 
 mixpanel.track('View');
 </script>
-	<style type="text/css">
+	 <style type="text/css">
             body, html
             {
                 margin: 0; padding: 0; height: 100%; overflow: hidden;
             }
+
+            #content
+            {
+                position:absolute; left: 0; right: 0; bottom: 0; top: 0px; 
+            }
         </style>
 </head>
 <body>
-	<iframe style="width:100%; height:100%;" src="https://mixpanel.com/public/VaKqzQC14kKyusujLmevta" title="MP Dash"></iframe>
+	<div id="content">
+		<iframe style="width:100%; height:100%;" src="https://mixpanel.com/public/VaKqzQC14kKyusujLmevta" title="MP Dash"></iframe>
+	</div>
 </body>
 </html>
